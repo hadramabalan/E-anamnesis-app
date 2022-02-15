@@ -1,4 +1,8 @@
-# Project initialization
+# E-Anamnesis 
+## About 
+    E-Anamnesis is an application to enable pacients to make their anamnesis at home. It is a CTU school project.
+
+## Project initialization
 
 ### Develop on backend
 #### Create virtual venv
