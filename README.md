@@ -1,6 +1,6 @@
 # E-Anamnesis 
 ## About 
-    E-Anamnesis is an application to enable pacients to make their anamnesis at home. It is a CTU school project.
+E-Anamnesis is an application to enable pacients to make their anamnesis at home. It is a CTU school project.
 
 ## Project initialization
 
